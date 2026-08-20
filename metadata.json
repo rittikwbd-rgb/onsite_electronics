@@ -1,0 +1,6 @@
+{
+  "name": "On-Site Electronics",
+  "description": "On-Site Electronics (OSE, INC) - Computing Specialists Since 1985. Professional consumer and small business IT services, remote technical support, and 24/7 service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
